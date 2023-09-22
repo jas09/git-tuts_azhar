@@ -1,1 +1,1 @@
-print("Azhar + Entry Course")
+print("Azhar + New Test")
